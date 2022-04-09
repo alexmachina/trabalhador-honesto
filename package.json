@@ -15,7 +15,7 @@
     "figlet": "^1.2.4",
     "inquirer": "^7.0.4",
     "minimist": "^1.2.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "pg": "^7.18.1",
     "reflect-metadata": "^0.1.13",
     "typeorm": "^0.2.22"
